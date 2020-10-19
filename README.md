@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
-- [handlebars](https://handlebarsjs.com/)
+- [Handlebars](https://handlebarsjs.com/)
 
 ## 💻 Projeto
 
